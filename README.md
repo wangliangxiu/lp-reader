@@ -1,6 +1,10 @@
 # The Little Prince · 点词阅读版
 
-英文原版（Katherine Woods 1943 译本）27 章 + 43 幅原版插图 + 全书 2096 个词形的中文释义。
-点任意单词查释义，段落可朗读/机翻，带生词本。单文件网页，手机、平板、电脑都能开。
+英文原版（Katherine Woods 1943 译本）27 章 + 43 幅作者手绘插图 + 全书 2096 个词形的中文释义。
+点任意单词查释义，段落可朗读、可机翻对照，带生词本。手机、平板、电脑都能开。
 
-打开方式：https://cdn.jsdelivr.net/gh/wangliangxiu/lp-reader@main/index.html
+在线打开：https://wangliangxiu.github.io/lp-reader/
+
+- 点词释义、朗读、插图：离线数据内嵌，打开即用
+- 「译」按钮走免费机翻接口，需联网
+- 插图按需加载，首屏约 150 KB
